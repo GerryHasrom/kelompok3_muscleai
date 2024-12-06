@@ -1,5 +1,11 @@
 # Muscle AI: Rekomendasi Jenis Latihan Gym
 
+## Anggota Kelompok
+- **Alif Naufal Fachrian** - 2209106108
+- **Gerry Hasrom** - 2209106094
+- **Muhammad Rizky Putra Pratama** - 2209106102
+- **Zaky Syuhada** - 2209106073
+
 ## Deskripsi Proyek
 **Muscle AI** adalah aplikasi yang memberikan rekomendasi jenis latihan gym berdasarkan input kalori yang ingin dibakar dan jenis latihan yang dipilih. Jenis latihan yang tersedia meliputi:
 
@@ -9,12 +15,6 @@
 - **Yoga**
 
 Semakin banyak kalori yang ingin dibakar, semakin banyak latihan yang akan direkomendasikan. Pengguna dapat memilih latihan yang sesuai dengan tujuan mereka.
-
-## Anggota Kelompok
-- **Alif Naufal Fachrian** - 2209106108
-- **Gerry Hasrom** - 2209106094
-- **Muhammad Rizky Putra Pratama** - 2209106102
-- **Zaky Syuhada** - 2209106073
 
 ## Tujuan Aplikasi
 Aplikasi **Muscle AI** bertujuan untuk membantu pengguna menentukan latihan gym yang sesuai berdasarkan jumlah kalori yang ingin dibakar dan jenis latihan yang dipilih. Dengan menggunakan metode **Deep Neural Network (DNN)**, model ini telah mencapai **akurasi MAE sebesar 78.5643**. Backend menggunakan **Django**, terintegrasi dengan aplikasi **Flutter** melalui endpoint yang diuji menggunakan **Postman**.
