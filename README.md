@@ -76,6 +76,20 @@ Aplikasi **Muscle AI** bertujuan untuk membantu pengguna menentukan latihan gym 
 
 ---
 
+## Informasi Kontak 📧
+
+**GitHub Collaborators**:
+- **Alif Naufal Fachrian**: [alnfl29](https://github.com/alnfl29)
+- **Gerry Hasrom**: [GerryHasrom](https://github.com/GerryHasrom)
+- **Muhammad Rizky Putra Pratama**: [tamaaja](https://github.com/tamaaja)
+- **Zaky Syuhada**: [jisNOTmyname](https://github.com/jisNOTmyname)
+
+**Email**:
+- **Alif Naufal Fachrian**: aliffbatasa29@gmail.com
+- **Gerry Hasrom**: gerryhasrom25@gmail.com
+- **Muhammad Rizky Putra Pratama**: rizkyputra1206@gmail.com
+- **Zaky Syuhada**: Zaonly881@gmail.com
+
 ## Catatan 📌
 - Pastikan server Django berjalan dengan baik dan endpoint sudah diatur dengan benar di aplikasi Flutter.
 - Untuk masalah terkait LocalTunnel, pastikan subdomain yang digunakan sudah valid dan sesuai dengan pengaturan pada **settings.py**.
