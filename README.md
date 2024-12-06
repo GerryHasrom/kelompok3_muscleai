@@ -94,5 +94,6 @@ Aplikasi **Muscle AI** bertujuan untuk membantu pengguna menentukan latihan gym 
 - Pastikan server Django berjalan dengan baik dan endpoint sudah diatur dengan benar di aplikasi Flutter.
 - Untuk masalah terkait LocalTunnel, pastikan subdomain yang digunakan sudah valid dan sesuai dengan pengaturan pada **settings.py**.
 - Gunakan Postman untuk memverifikasi endpoint dan pastikan aplikasi berfungsi dengan baik di semua tahap.
+- Jika Gemini tidak memberikan respons, tapi bisa melakukan predict ganti api key, bisa aja karena api sudah habis credit harian.
 
 Selamat mencoba, semoga aplikasi **Muscle AI** dapat membantu Anda mencapai tujuan fitness Anda! 🏆
