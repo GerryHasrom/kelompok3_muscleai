@@ -1,6 +1,6 @@
 # Muscle AI: Rekomendasi Jenis Latihan Gym 🏋️‍♂️💪
 
-## Anggota Kelompok 👥
+## Anggota Kelompok 3C 👥
 - **Alif Naufal Fachrian** - 2209106108
 - **Gerry Hasrom** - 2209106094
 - **Muhammad Rizky Putra Pratama** - 2209106102
