@@ -1,38 +1,39 @@
-# Muscle AI: Rekomendasi Jenis Latihan Gym
+# Muscle AI: Rekomendasi Jenis Latihan Gym 🏋️‍♂️💪
 
-## Anggota Kelompok
+## Anggota Kelompok 👥
 - **Alif Naufal Fachrian** - 2209106108
 - **Gerry Hasrom** - 2209106094
 - **Muhammad Rizky Putra Pratama** - 2209106102
 - **Zaky Syuhada** - 2209106073
 
-## Deskripsi Proyek
+## Deskripsi Proyek 📝
 **Muscle AI** adalah aplikasi yang memberikan rekomendasi jenis latihan gym berdasarkan input kalori yang ingin dibakar dan jenis latihan yang dipilih. Jenis latihan yang tersedia meliputi:
 
-- **Cardio**
-- **HIIT (High-Intensity Interval Training)**
-- **Strength**
-- **Yoga**
+- **Cardio** 🏃‍♂️
+- **HIIT (High-Intensity Interval Training)** 🔥
+- **Strength** 🏋️‍♀️
+- **Yoga** 🧘‍♂️
 
 Semakin banyak kalori yang ingin dibakar, semakin banyak latihan yang akan direkomendasikan. Pengguna dapat memilih latihan yang sesuai dengan tujuan mereka.
 
-## Tujuan Aplikasi
+## Tujuan Aplikasi 🎯
 Aplikasi **Muscle AI** bertujuan untuk membantu pengguna menentukan latihan gym yang sesuai berdasarkan jumlah kalori yang ingin dibakar dan jenis latihan yang dipilih. Dengan menggunakan metode **Deep Neural Network (DNN)**, model ini telah mencapai **akurasi MAE sebesar 78.5643**. Backend menggunakan **Django**, terintegrasi dengan aplikasi **Flutter** melalui endpoint yang diuji menggunakan **Postman**.
 
-## Teknologi yang Digunakan
-- **Backend**: Django
-- **Frontend**: Flutter
-- **Model**: Deep Neural Network (DNN)
-- **Endpoint Testing**: Postman
+## Teknologi yang Digunakan 🖥️
+- **Backend**: Django 🐍
+- **Frontend**: Flutter 📱
+- **Model**: Deep Neural Network (DNN) 🧠
+- **Endpoint Testing**: Postman 🚀
 
-## Kendala yang Dihadapi
+## Kendala yang Dihadapi ⚠️
 - **80%**: Masalah terkait endpoint Django dengan aplikasi Flutter, terutama terkait pembatasan akses **CORS** dan domain local tunnel.
 - **10%**: Integrasi dengan model **Gemini API**.
 - **5%**: Kendala pada controller bagian prediksi.
 - **3%**: Penyesuaian tampilan antarmuka pengguna (UI).
-- **2%**: Kendala motivasi (rasa malas wkwk).
+- **2%**: Kendala motivasi (rasa malas wkwk) 😅.
 
-## Cara Menjalankan Program
+## Cara Menjalankan Program ⚙️
+
 ### Persiapan
 1. **Install dependencies Flutter**:
    - Jalankan `flutter pub get` terlebih dahulu.
@@ -65,7 +66,8 @@ Aplikasi **Muscle AI** bertujuan untuk membantu pengguna menentukan latihan gym 
      `flutter run`
    - Disarankan untuk menggunakan **Microsoft Edge** untuk hasil terbaik.
 
-## Cara Menggunakan Aplikasi
+## Cara Menggunakan Aplikasi 🧑‍💻
+
 1. **Registrasi Akun**: Buat akun baru di aplikasi.
 2. **Login Akun**: Masuk dengan akun yang sudah didaftarkan.
 3. **Masukkan Data Pribadi**: Isi data diri pengguna.
@@ -74,9 +76,9 @@ Aplikasi **Muscle AI** bertujuan untuk membantu pengguna menentukan latihan gym 
 
 ---
 
-## Catatan
+## Catatan 📌
 - Pastikan server Django berjalan dengan baik dan endpoint sudah diatur dengan benar di aplikasi Flutter.
 - Untuk masalah terkait LocalTunnel, pastikan subdomain yang digunakan sudah valid dan sesuai dengan pengaturan pada **settings.py**.
 - Gunakan Postman untuk memverifikasi endpoint dan pastikan aplikasi berfungsi dengan baik di semua tahap.
 
-Selamat mencoba, semoga aplikasi **Muscle AI** dapat membantu Anda mencapai tujuan fitness Anda!
+Selamat mencoba, semoga aplikasi **Muscle AI** dapat membantu Anda mencapai tujuan fitness Anda! 🏆
